@@ -67,7 +67,7 @@ An interactive Power BI dashboard built on the same dataset with two pages:
 - Country-wise average profits (Germany highest, Colombia lowest)
 
 ### Dashboard Screenshots
-Sales Dashboard :
+Sales Dashboard :(https://github.com/MohamedNalif/Ecommerce-Sales-Profit-Analysis/blob/main/Ecommerce%20Sales.jpg)
 Profit Dashboard:
 
 **Tool:** Microsoft Power BI Desktop  
