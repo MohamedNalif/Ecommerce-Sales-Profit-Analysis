@@ -73,4 +73,4 @@ Profit Dashboard:
 **Tool:** Microsoft Power BI Desktop  
 **File:** `Ecommerce_Dashboard.pbix`
 ## 📥 Download Dashboard
-[Download Power BI File (.pbix)](https://github.com/MohamedNalif/Ecommerce-Sales-Profit-Analysis/blob/main/Ecommerce.pbix)
+[Download Power BI File (https://github.com/MohamedNalif/Ecommerce-Sales-Profit-Analysis/blob/main/Ecommerce.ipynb.pbix)]
