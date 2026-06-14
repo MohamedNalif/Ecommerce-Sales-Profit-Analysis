@@ -68,7 +68,7 @@ An interactive Power BI dashboard built on the same dataset with two pages:
 
 ### Dashboard Screenshots
 Sales Dashboard :(https://github.com/MohamedNalif/Ecommerce-Sales-Profit-Analysis/blob/main/Ecommerce%20Sales.jpg)
-Profit Dashboard:
+Profit Dashboard:(https://github.com/MohamedNalif/Ecommerce-Sales-Profit-Analysis/blob/main/Ecommerce%20Profit.jpg)
 
 **Tool:** Microsoft Power BI Desktop  
 **File:** `Ecommerce_Dashboard.pbix`
